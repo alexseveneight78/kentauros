@@ -1,5 +1,6 @@
 import React from 'react';
 import Alphabet from '../alphabet/Alphabet';
+import Check1 from './Check1';
 
 const Lesson1 = () => {
 
@@ -7,6 +8,7 @@ const Lesson1 = () => {
         <div>
             <h3>Урок 1: алфавит.</h3>
             <Alphabet />    
+            <Check1 />
         </div>
     );
 };

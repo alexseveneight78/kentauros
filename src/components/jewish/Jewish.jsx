@@ -6,6 +6,7 @@ const Jewish = () => {
     return (
         <div>
             Jewish
+            <input placeholder='реализация поиска по названию'/>
             <Lesson1 />
         </div>
     );
